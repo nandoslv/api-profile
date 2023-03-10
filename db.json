@@ -1,9 +1,43 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+   "profile":
+   {
+       "profile":"Fernando Silva é um desenvolvedor frontend altamente qualificado e experiente, especializado em criar interfaces de usuário impressionantes e funcionais para aplicativos da web e dispositivos móveis. Com habilidades avançadas em HTML, CSS, JavaScript e outras tecnologias front-end, Fernando é capaz de desenvolver interfaces que atendem às necessidades dos usuários e proporcionam uma experiência excepcional."
+   },
+   "skills":[
+      "Javascript",
+      "Html",
+      "CSS",
+      "ReactJS",
+      "VueJS",
+      "Jest",
+      "Cypress",
+      "Bootstrap",
+      "Tailwind",
+      ".Net",
+      "Node",
+      "Sass"
+   ],
+   "portfolio":[
+      {
+         "project":"Project 01",
+         "description":"Project 01 Description"
+      },
+      {
+         "project":"Project 02",
+         "description":"Project 02 Description"
+      },
+      {
+         "project":"Project 03",
+         "description":"Project 03 Description"
+      }
+   ],
+   "contact":{
+      "email":"fernandoslv@gmail.com",
+      "phone":"27 999424506",
+      "adress":{
+         "street":"Carlos Alves",
+         "number":"200",
+         "cep":"29050-600"
+      }
+   }
 }
