@@ -1,52 +1,50 @@
 {
-   "profile":
-   {
-       "profile":"Sou desenvolvedor frontend apaixonado por criar experiências de usuário incríveis e interfaces de usuário sofisticadas. Com mais de 15 anos de experiência em desenvolvimento frontend, tenho confiança em minhas habilidades para contribuir para o sucesso dos projetos em que eu venha atuar. Minha experiência inclui o uso de tecnologias como HTML, CSS, JavaScript, jQuery, React e Vue.js para criar interfaces de usuário intuitivas e responsivas. Eu também tenho experiência em trabalhar com APIs RESTful, Git, e tenho habilidades em design responsivo e testes automatizados."   
-   },
-   "skills":[
-      "Javascript",
-      "Html",
-      "CSS",
-      "ReactJS",
-      "VueJS",
-      "Jest",
-      "Cypress",
-      "Bootstrap",
-      "Tailwind",
-      ".Net",
-      "Node",
-      "Sass"
-   ],
-   "portfolio":[
-      {
-         "project":"Carnê Leão",
-         "description":"Project 03 Description"
-      },
-      {
-         "project":"e-Social",
-         "description":"Project 01 Description"
-      },
-      {
-         "project":"e-Ouv",
-         "description":"Project 02 Description"
-      },
-      {
-         "project":"e-Docs",
-         "description":"Project 03 Description"
-      },
-      {
-         "project":"Portal da Transparência",
-         "description":"Project 03 Description"
-      },
-      
-   ],
-   "contact":{
-      "email":"fernandoslv@gmail.com",
-      "phone":"27 999424506",
-      "adress":{
-         "street":"Carlos Alves",
-         "number":"200",
-         "cep":"29050-600"
-      }
-   }
+	"profile": {
+		"profile": "Sou desenvolvedor frontend apaixonado por criar experiências de usuário incríveis e interfaces de usuário sofisticadas. Com mais de 15 anos de experiência em desenvolvimento frontend, tenho confiança em minhas habilidades para contribuir para o sucesso dos projetos em que eu venha atuar. Minha experiência inclui o uso de tecnologias como HTML, CSS, JavaScript, jQuery, React e Vue.js para criar interfaces de usuário intuitivas e responsivas. Eu também tenho experiência em trabalhar com APIs RESTful, Git, e tenho habilidades em design responsivo e testes automatizados."
+	},
+	"skills": [
+		"Javascript",
+		"Html",
+		"CSS",
+		"ReactJS",
+		"VueJS",
+		"Jest",
+		"Cypress",
+		"Bootstrap",
+		"Tailwind",
+		".Net",
+		"Node",
+		"Sass"
+	],
+	"portfolio": [{
+			"project": "Carnê Leão",
+			"description": "Project 03 Description"
+		},
+		{
+			"project": "e-Social",
+			"description": "Project 01 Description"
+		},
+		{
+			"project": "e-Ouv",
+			"description": "Project 02 Description"
+		},
+		{
+			"project": "e-Docs",
+			"description": "Project 03 Description"
+		},
+		{
+			"project": "Portal da Transparência",
+			"description": "Project 03 Description"
+		}
+
+	],
+	"contact": {
+		"email": "fernandoslv@gmail.com",
+		"phone": "27 999424506",
+		"adress": {
+			"street": "Carlos Alves",
+			"number": "200",
+			"cep": "29050-600"
+		}
+	}
 }
