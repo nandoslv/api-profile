@@ -1,7 +1,7 @@
 {
    "profile":
    {
-       "profile":"Fernando Silva é um desenvolvedor frontend altamente qualificado e experiente, especializado em criar interfaces de usuário impressionantes e funcionais para aplicativos da web e dispositivos móveis. Com habilidades avançadas em HTML, CSS, JavaScript e outras tecnologias front-end, Fernando é capaz de desenvolver interfaces que atendem às necessidades dos usuários e proporcionam uma experiência excepcional."
+       "profile":"Sou desenvolvedor frontend apaixonado por criar experiências de usuário incríveis e interfaces de usuário sofisticadas. Com mais de 15 anos de experiência em desenvolvimento frontend, tenho confiança em minhas habilidades para contribuir para o sucesso dos projetos em que eu venha atuar. Minha experiência inclui o uso de tecnologias como HTML, CSS, JavaScript, jQuery, React e Vue.js para criar interfaces de usuário intuitivas e responsivas. Eu também tenho experiência em trabalhar com APIs RESTful, Git, e tenho habilidades em design responsivo e testes automatizados."   
    },
    "skills":[
       "Javascript",
@@ -19,17 +19,26 @@
    ],
    "portfolio":[
       {
-         "project":"Project 01",
+         "project":"Carnê Leão",
+         "description":"Project 03 Description"
+      },
+      {
+         "project":"e-Social",
          "description":"Project 01 Description"
       },
       {
-         "project":"Project 02",
+         "project":"e-Ouv",
          "description":"Project 02 Description"
       },
       {
-         "project":"Project 03",
+         "project":"e-Docs",
          "description":"Project 03 Description"
-      }
+      },
+      {
+         "project":"Portal da Transparência",
+         "description":"Project 03 Description"
+      },
+      
    ],
    "contact":{
       "email":"fernandoslv@gmail.com",
