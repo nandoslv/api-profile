@@ -1,142 +1,125 @@
 {
-	"profile": {
-		"profile": "Sou desenvolvedor frontend apaixonado por criar experiências de usuário incríveis e interfaces de usuário sofisticadas. Com mais de 15 anos de experiência em desenvolvimento frontend, tenho confiança em minhas habilidades para contribuir para o sucesso dos projetos em que eu venha atuar. Minha experiência inclui o uso de tecnologias como HTML, CSS, JavaScript, jQuery, React e Vue.js para criar interfaces de usuário intuitivas e responsivas. Eu também tenho experiência em trabalhar com APIs RESTful, Git, e tenho habilidades em design responsivo e testes automatizados."
-	},
+	"profile": [
+		{
+			"id":001,
+			"profile": "Sou desenvolvedor frontend apaixonado por criar experiências de usuário incríveis e interfaces de usuário sofisticadas. Com mais de 15 anos de experiência em desenvolvimento frontend, tenho confiança em minhas habilidades para contribuir para o sucesso dos projetos em que eu venha atuar. Minha experiência inclui o uso de tecnologias como HTML, CSS, JavaScript, jQuery, React e Vue.js para criar interfaces de usuário intuitivas e responsivas. Eu também tenho experiência em trabalhar com APIs RESTful, Git, e tenho habilidades em design responsivo e testes automatizados."
+		}
+   	],
 	"skills": [
-		"Javascript",
-		"Html",
-		"CSS",
-		"ReactJS",
-		"VueJS",
-		"Jest",
-		"Cypress",
-		"Bootstrap",
-		"Tailwind",
-		".Net",
-		"Node",
-		"Sass"
+		{
+			"id":001, 
+			"skill":"Javascript"
+		}
 	],
-	"portfolio": [{
+	"portfolio": [
+		{
+			"id":001,
 			"project": "Carnê Leão",
 			"description": "Project 03 Description"
-		},
-		{
-			"project": "e-Social",
-			"description": "Project 01 Description"
-		},
-		{
-			"project": "e-Ouv",
-			"description": "Project 02 Description"
-		},
-		{
-			"project": "e-Docs",
-			"description": "Project 03 Description"
-		},
-		{
-			"project": "Portal da Transparência",
-			"description": "Project 03 Description"
 		}
-
 	],
-	"contact": {
-		"email": "fernandoslv@gmail.com",
-		"phone": "27 999424506",
-		"adress": {
-			"street": "Carlos Alves",
-			"number": "200",
-			"cep": "29050-600"
+	"contact": [
+		{
+			"email": "fernandoslv@gmail.com",
+			"phone": "27 999424506",
+			"adress": {
+				"street": "Carlos Alves",
+				"number": "200",
+				"cep": "29050-600"
+			}
+		
 		}
-	},
+   	],
 	"transaction": [
-  {
-    "id": "5f89f9f271e4213092bd4e41",
-    "title": "Depósito",
-    "description": "excepteur veniam proident irure pariatur",
-    "status": "created",
-    "amount": 148856.29,
-    "date": "2017-07-23",
-    "from": "Trade",
-    "to": "Conta Warren"
-  },
-  {
-    "id": "5f89f9f257fe42957bf6dbfd",
-    "title": "Resgate",
-    "description": "et labore proident aute nulla",
-    "status": "processing",
-    "amount": 2078.66,
-    "date": "2018-12-22",
-    "from": "Aposentadoria",
-    "to": "Conta Warren"
-  },
-  {
-    "id": "5f89f9f2f318e70ff298f528",
-    "title": "Movimentação interna",
-    "description": "eu officia laborum labore aute",
-    "status": "processed",
-    "amount": 25092.8,
-    "date": "2016-08-25",
-    "from": "Férias",
-    "to": "Trade"
-  },
-  {
-    "id": "5f89f9f271e4213092bd4e43",
-    "title": "Depósito",
-    "description": "excepteur veniam proident irure pariatur",
-    "status": "created",
-    "amount": 148856.29,
-    "date": "2017-07-23",
-    "from": "Trade",
-    "to": "Conta Warren"
-  },
-  {
-    "id": "5f89f9f257fe42957bf6dbf4",
-    "title": "Resgate",
-    "description": "et labore proident aute nulla",
-    "status": "processing",
-    "amount": 2078.66,
-    "date": "2018-12-22",
-    "from": "Aposentadoria",
-    "to": "Conta Warren"
-  },
-  {
-    "id": "5f89f9f2f318e70ff298f525",
-    "title": "Movimentação interna",
-    "description": "eu officia laborum labore aute",
-    "status": "processed",
-    "amount": 25092.8,
-    "date": "2016-08-25",
-    "from": "Férias",
-    "to": "Trade"
-  },
-  {
-    "id": "5f89f9f271e4213092bd4e46",
-    "title": "Depósito",
-    "description": "excepteur veniam proident irure pariatur",
-    "status": "created",
-    "amount": 148856.29,
-    "date": "2017-07-23",
-    "from": "Trade",
-    "to": "Conta Warren"
-  },
-  {
-    "id": "5f89f9f257fe42957bf6dbf7",
-    "title": "Resgate",
-    "description": "et labore proident aute nulla",
-    "status": "processing",
-    "amount": 2078.66,
-    "date": "2018-12-22",
-    "from": "Aposentadoria",
-    "to": "Conta Warren"
-  },
-  {
-    "id": "5f89f9f2f318e70ff298f529",
-    "title": "Movimentação interna",
-    "description": "eu officia laborum labore aute",
-    "status": "processed",
-    "amount": 25092.8,
-    "date": "2016-08-25",
-    "from": "Férias",
-    "to": "Trade"
-  }
-]
+		  {
+		    "id": "5f89f9f271e4213092bd4e41",
+		    "title": "Depósito",
+		    "description": "excepteur veniam proident irure pariatur",
+		    "status": "created",
+		    "amount": 148856.29,
+		    "date": "2017-07-23",
+		    "from": "Trade",
+		    "to": "Conta Warren"
+		  },
+		  {
+		    "id": "5f89f9f257fe42957bf6dbfd",
+		    "title": "Resgate",
+		    "description": "et labore proident aute nulla",
+		    "status": "processing",
+		    "amount": 2078.66,
+		    "date": "2018-12-22",
+		    "from": "Aposentadoria",
+		    "to": "Conta Warren"
+		  },
+		  {
+		    "id": "5f89f9f2f318e70ff298f528",
+		    "title": "Movimentação interna",
+		    "description": "eu officia laborum labore aute",
+		    "status": "processed",
+		    "amount": 25092.8,
+		    "date": "2016-08-25",
+		    "from": "Férias",
+		    "to": "Trade"
+		  },
+		  {
+		    "id": "5f89f9f271e4213092bd4e43",
+		    "title": "Depósito",
+		    "description": "excepteur veniam proident irure pariatur",
+		    "status": "created",
+		    "amount": 148856.29,
+		    "date": "2017-07-23",
+		    "from": "Trade",
+		    "to": "Conta Warren"
+		  },
+		  {
+		    "id": "5f89f9f257fe42957bf6dbf4",
+		    "title": "Resgate",
+		    "description": "et labore proident aute nulla",
+		    "status": "processing",
+		    "amount": 2078.66,
+		    "date": "2018-12-22",
+		    "from": "Aposentadoria",
+		    "to": "Conta Warren"
+		  },
+		  {
+		    "id": "5f89f9f2f318e70ff298f525",
+		    "title": "Movimentação interna",
+		    "description": "eu officia laborum labore aute",
+		    "status": "processed",
+		    "amount": 25092.8,
+		    "date": "2016-08-25",
+		    "from": "Férias",
+		    "to": "Trade"
+		  },
+		  {
+		    "id": "5f89f9f271e4213092bd4e46",
+		    "title": "Depósito",
+		    "description": "excepteur veniam proident irure pariatur",
+		    "status": "created",
+		    "amount": 148856.29,
+		    "date": "2017-07-23",
+		    "from": "Trade",
+		    "to": "Conta Warren"
+		  },
+		  {
+		    "id": "5f89f9f257fe42957bf6dbf7",
+		    "title": "Resgate",
+		    "description": "et labore proident aute nulla",
+		    "status": "processing",
+		    "amount": 2078.66,
+		    "date": "2018-12-22",
+		    "from": "Aposentadoria",
+		    "to": "Conta Warren"
+		  },
+		  {
+		    "id": "5f89f9f2f318e70ff298f529",
+		    "title": "Movimentação interna",
+		    "description": "eu officia laborum labore aute",
+		    "status": "processed",
+		    "amount": 25092.8,
+		    "date": "2016-08-25",
+		    "from": "Férias",
+		    "to": "Trade"
+		  }
+	]
 }
