@@ -1,25 +1,26 @@
 {
 	"profile": [
 		{
-			"id":001,
+			"id":1,
 			"profile": "Sou desenvolvedor frontend apaixonado por criar experiências de usuário incríveis e interfaces de usuário sofisticadas. Com mais de 15 anos de experiência em desenvolvimento frontend, tenho confiança em minhas habilidades para contribuir para o sucesso dos projetos em que eu venha atuar. Minha experiência inclui o uso de tecnologias como HTML, CSS, JavaScript, jQuery, React e Vue.js para criar interfaces de usuário intuitivas e responsivas. Eu também tenho experiência em trabalhar com APIs RESTful, Git, e tenho habilidades em design responsivo e testes automatizados."
 		}
    	],
 	"skills": [
 		{
-			"id":001, 
+			"id":1, 
 			"skill":"Javascript"
 		}
 	],
 	"portfolio": [
 		{
-			"id":001,
+			"id":1,
 			"project": "Carnê Leão",
 			"description": "Project 03 Description"
 		}
 	],
 	"contact": [
 		{
+			"id":1
 			"email": "fernandoslv@gmail.com",
 			"phone": "27 999424506",
 			"adress": {
